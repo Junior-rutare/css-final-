@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>THE BASKETBALL GOAT</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style type="text/css">
+
+ .wrapper {
+    max-width:80%;
+    margin: 0 auto;
+    padding: 2%;
+    background-color:yellow;
+  }
+.P1{
+       float: left;
+        width:30%;
+           float: left;
+           margin:2%;
+           color:white;
+}
+
+.p2{ 
+    float: left;
+     width:32%;
+      float:left;
+       margin:2%;
+}
+.p3{
+    width:32%;
+            margin-right:9.5602294455067%;
+            float:right;
+}
+
+
+footer{
+       clear: left;
+       padding:2%;
+       background-color:purple; 
+       color:white; 
+}
+
+
+h1 h2{ 
+       color:purple; 
+font-size:2em;
+    font-weight: bold;
+    color:green; 
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+
+body{
+      font-family: 'Cardo', serif;
+      color:black;
+}
+   img{
+        width: 50%;
+        height: 50%;
+}
+         
+
+  </style>
+  </head>
+
+
+
+<div class="wrapper">
+  <body>
+    <header>
+<h1>Disclaimer</h1>
+
+<img src="bob.png" alt="LeBron James as the GOAT">
+
+ 
+    <nav>
+        <ul>
+          <li><a href="#">Scoring.html</a>Le scoring</li>
+          <li><a href="#">Playmaking.html</a>le Playmaking</li>
+          <li><a href="#">le Goat.html</a>le Goat</li>
+          <li><a href="#">longevity.html</a>le longevity</li>
+         <li><a href="#">Disclaimer.html</a>le Disclaimer</li>
+        </ul>
+      </nav>
+
+    </header>
+
+<div class="p1">
+    <article>
+      <h2>BETTER THAN JORDAN</h2>
+
+
+      <p>Versatility: Lebron is often considered one of the most versatile players in the league, with the ability to play multiple positions and contribute to his team in a variety of ways. He is an excellent scorer, passer, and rebounder, and has been successful as both a playmaker and a scorer throughout his career.
+Court vision: LeBron is known for his excellent court vision and ability to make his teammates better. He is an outstanding passer and has averaged more assists per game than Jordan did in his career.
+Longevity: LeBron has been playing at an incredibly high level for over two decades, and shows no signs of slowing down. He has been a dominant force in the league for a longer period of time than Jordan was, and has maintained his level of play even as he has gotten older.
+Postseason success: LeBron has been extremely successful in the postseason, with four NBA championships and numerous deep playoff runs. He has also been to the NBA Finals ten times, which is more than Jordan's nine appearances.</p>
+
+
+    </article>
+</div>
+
+<div class="p2">
+<article>
+      <h2>Goat?</h2>
+      <p> These are just a few of the arguments that can be made for why some people believe LeBron is better than Jordan. Ultimately, the answer to this question will depend on personal preference and the criteria you use to evaluate the two players. </p>
+
+    </article>
+</div>
+
+
+</div>
+
+  
+</body>
+
+    <footer>
+      <p>Copyright © Junior's</p>
+    </footer>
+  
+</div>
+</html>

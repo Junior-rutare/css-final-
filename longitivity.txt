@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+  <head>
+ <title>THE BASKETBALL GOAT</title>
+    <meta charset="UTF-8">
+    <title>My Webpage</title>
+    <style>
+      /* CSS reset */
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      /* Custom styles */
+      body {
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+ }
+ /* other css */
+
+.wrapper {
+    max-width:80%;
+    margin: 0 auto;
+    padding: 2%;
+    background-color: white;
+  }
+body {
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+}
+
+ h1 {
+        font-size: 24px;
+        color: #F9A01B;
+        padding: 20px;
+}
+h2 {
+        font-size: 20px;
+        color: gold;
+        padding: 10px;
+     
+ }
+ p {
+        font-size: 16px;
+        color: purple;
+        padding: 10px;
+        width: 80%;
+}
+
+.P1{
+       float: left;
+        width:30%;
+           float: left;
+           margin:2%;
+          
+}
+
+.p2{ 
+    float: left;
+     width:35%;
+      float:left;
+       margin:2%;
+}
+.p3{
+    width:35%;
+            margin-right:9.5602294455067%;
+            float:right;
+}
+
+footer {
+        
+       clear: left;
+       padding:2%;
+      }
+}
+   img{
+        width: 35%;
+        height: 35%;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+    </style>
+
+
+  </head>
+
+ 
+    
+
+<div class="wrapper">
+  <body>
+    <header>
+<h1> Longest prime </h1>
+
+<img src="long.png" alt="LeBron James as the GOAT">
+
+
+
+ 
+   <nav>
+        <ul>
+          <li><a href="Scoring.html">Scoring</a>.</li>
+          <li><a href="Playmaking.html">Playmaking</a>.</li>
+          <li><a href="le Goat.html">le Goat</a>.</li>
+          <li><a href="longevity.html">longevity</a>.</li>
+         <li><a href="Disclaimer.html">Disclaimer</a>.</li>
+        </ul>
+      </nav>
+    </header>
+
+<div class="p1">
+    <article>
+      <h2>Le-Athlete</h2>
+
+
+      <p>First, his physical attributes and athleticism have been able to withstand the test of time. He has exceptional strength, speed, and endurance, which have allowed him to continue to play at a high level despite being in the league for over 17 years. He also takes care of his body through proper nutrition and training, which has helped him to maintain his physical capabilities and longevity in the league.</p>
+
+<p> LeBron has a remarkable basketball IQ, which has allowed him to make adjustments to his game over the years and remain effective on the court. He has a deep understanding of the game, which has enabled him to continue to find new ways to score and create opportunities for his teammates, even as the league has evolved. </p>
+
+    </article>
+</div>
+
+<div class="p2">
+<article>
+      <h2>Le old </h2>
+      <p> LeBron's versatility and adaptability have been key to his longevity. He has the ability to play multiple positions, which has given him the flexibility to play different roles on different teams and in different situations. This versatility has allowed him to continue to thrive in the league, even as he has aged. </p>
+
+<p> LeBron has a strong work ethic and commitment to improvement. He is always looking to get better and is never satisfied with where he is at. This drive to be the best has allowed him to continuously improve his game and maintain a high level of performance, even after so many years in the league.</p>
+    </article>
+</div>
+
+<div class="p3">
+<article>
+      <h2>le performer </h2>
+      <p> Fifth, LeBron's competitiveness and drive to win has been a major factor in his longevity.</p>
+
+<p>Another reason why LeBron James is considered the longest player in his prime is due to his exceptional physical conditioning and injury history. LeBron has been able to maintain his health and avoid serious injury throughout his career, which is a testament to his dedication to his body and his ability to take care of himself both on and off the court. He has been able to play at an elite level for a very long time due to his ability to avoid injury and maintain his physical fitness, which is a key factor in his longevity as one of the best players in the league.</p>
+    </article>
+
+</div>
+
+
+
+
+ </body>
+<footer>Copyright @le Junior 2023</footer>
+</html>

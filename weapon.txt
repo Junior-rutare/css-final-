@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+  <head>
+ <title>THE BASKETBALL GOAT</title>
+    <meta charset="UTF-8">
+    <title>My Webpage</title>
+    <style>
+      /* CSS reset */
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      /* Custom styles */
+      body {
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+ }
+ /* other css */
+
+.wrapper {
+    max-width:80%;
+    margin: 0 auto;
+    padding: 2%;
+    background-color: white;
+  }
+body {
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.5;
+}
+
+ h1 {
+        font-size: 24px;
+        color: purple;
+        padding: 20px;
+}
+h2 {
+        font-size: 20px;
+        color: gold;
+        padding: 10px;
+     
+ }
+ p {
+        font-size: 16px;
+        color: purple;
+        padding: 10px;
+        width: 80%;
+}
+
+.P1{
+       float: left;
+        width:30%;
+           float: left;
+           margin:2%;
+          
+}
+
+.p2{ 
+    float: left;
+     width:35%;
+      float:left;
+       margin:2%;
+}
+.p3{
+    width:35%;
+            margin-right:9.5602294455067%;
+            float:right;
+}
+
+footer {
+        
+       clear: left;
+       padding:2%;
+      }
+}
+   img{
+        width: 35%;
+        height: 35%;
+}
+
+    </style>
+
+
+  </head>
+
+ 
+    
+
+<div class="wrapper">
+  <body>
+    <header>
+<h1>Scoring weapon in the league</h1>
+
+<img src="bron.png" alt="LeBron James as the GOAT">
+
+ 
+   <nav>
+        <ul>
+          <li><a href="Scoring.html">Scoring</a>.</li>
+          <li><a href="Playmaking.html">Playmaking</a>.</li>
+          <li><a href="le Goat.html">le Goat</a>.</li>
+          <li><a href="longevity.html">longevity</a>.</li>
+         <li><a href="Disclaimer.html">Disclaimer</a>.</li>
+        </ul>
+     
+      </nav>
+
+    </header>
+
+<div class="p1">
+    <article>
+      <h2>Le vision</h2>
+
+
+      <p>LeBron James is widely considered to be one of the best playmakers in the NBA. There are several reasons why he is regarded as such.
+
+First, LeBron has exceptional court vision and awareness. He is able to anticipate the movements of his teammates and find them with precise passes, often in high-pressure situations. This ability to make quick and accurate passes allows him to create scoring opportunities for his teammates, and often leads to easy buckets for them.</p>
+
+<p> LeBron's unselfishness is a big reason why he is considered to be one of the best playmakers in the league. He is always looking to make the right play, whether that be scoring himself or setting up a teammate for a scoring opportunity. This unselfish approach to the game has earned him the reputation of being a true team player, and has helped him create countless scoring opportunities for his teammates over the course of his career. </p>
+
+    </article>
+</div>
+
+<div class="p2">
+<article>
+      <h2>Le passer </h2>
+      <p> LeBron's size and strength make him a force to be reckoned with in the open court. He is able to break down defenses with his dribbling ability and get to the rim at will, which creates opportunities for himself and his teammates. His ability to finish at the rim and draw multiple defenders also creates opportunities for his teammates to score. </p>
+
+<p>LeBron's scoring ability is elevated by his remarkable competitiveness and drive. He has a relentless pursuit of excellence and is always looking to improve his game. Whether it's through film study, training, or in-game adjustments, LeBron is always seeking ways to be better. This competitive drive is what sets him apart from many other scorers in the league, and is a big reason why he continues to be a dominant scorer in the NBA.</p>
+    </article>
+</div>
+
+<div class="p3">
+<article>
+      <h2>le competition</h2>
+      <p> LeBron's competitiveness and drive to win is what sets him apart from many other playmakers in the league. He is always seeking ways to be better, whether that be through film study, training, or in-game adjustments, and this competitive drive helps him to consistently make the right play and create opportunities for his teammates.</p>
+
+<p>ILeBron James is the best playmaker in the league because of his exceptional court vision and awareness, unselfishness, size and strength, basketball IQ, and competitiveness. He has proven time and time again that he is capable of making the right play and creating opportunities for his teammates, and his ability to do so consistently makes him one of the most dominant playmakers in the history of the game.</p>
+    </article>
+
+</div>
+
+
+
+
+ </body>
+<footer>Copyright @le Junior 2023</footer>
+</html>
